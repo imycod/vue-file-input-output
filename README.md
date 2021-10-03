@@ -1,4 +1,4 @@
-# demo
+# vue-file-input-output
 
 ## Project setup
 ```
